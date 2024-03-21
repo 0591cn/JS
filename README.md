@@ -1,5 +1,16 @@
 # 软件收藏
+说明
+一个基于 Electron + Vue 开发的音乐软件。
 
+所用技术栈：
+
+Electron 15+
+Vue 3
+已支持的平台：
+
+Windows 7 及以上
+Mac OS
+Linux
 
 洛雪音乐助手 音源  lx-music-source-v1.1.0.js
 
