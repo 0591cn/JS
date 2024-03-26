@@ -7,10 +7,16 @@
 
 # 2、直播源
 YanG-1989：<br>
-https://raw.githubusercontent.com/0591cn/yang-1989-m3u/main/Gather.m3u  <br>
-
-
-
+### 订阅地址「懒人必备」 
+* [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
+* [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
+---
+### 直播集合「一切随缘」   
+* [live.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/live.m3u)  
+>多平台集合「未创建」
+* [XX.m3u](https://tv.iill.top/xx)  
+>直接使用此地址,过滤 XX.m3u 中的无效直播.  
+ 
 
 # 3、电报机器人
 2.1 搜索类
