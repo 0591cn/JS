@@ -5,11 +5,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年2月新2964规则.txt  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
 
+# 2、直播源
+YanG-1989：<br>
+https://raw.githubusercontent.com/0591cn/yang-1989-m3u/main/Gather.m3u  <br>
 
 
 
 
-# 2、电报机器人
+# 3、电报机器人
 2.1 搜索类
 1.	极搜https://t.me/jisou 堪称电报目前最强搜索机器人，啥都有
 2.	超级搜索：以前用，现在用的不多，都用上面的
