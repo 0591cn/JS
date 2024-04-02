@@ -5,19 +5,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年2月新2964规则.txt  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
 
+---
 # 2、直播源
 YanG-1989：<br>
 ### 订阅地址「懒人必备」 
 * [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
 * [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
----
+
 ### 直播集合「一切随缘」   
 * [live.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/live.m3u)  
 >多平台集合「未创建」
 * [XX.m3u](https://tv.iill.top/xx)  
->直接使用此地址,过滤 XX.m3u 中的无效直播.  
- 
+>直接使用此地址,过滤 XX.m3u 中的无效直播.
 
+ 
+---
 # 3、电报机器人
 2.1 搜索类
 1.	极搜https://t.me/jisou 堪称电报目前最强搜索机器人，啥都有
@@ -38,11 +40,14 @@ YanG-1989：<br>
 
 
 
-##
-##
-##
 
-  
+
+
+
+ <br> <br> <br>
+---
+---
+---
 ##版权声明：  
 ①根据二〇〇二年一月一日《计算机软件保护条例》规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬！
 
