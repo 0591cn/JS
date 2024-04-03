@@ -6,7 +6,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
 
 ---
-# 2、直播源
+# 2、常用工具
+CFip测速参数：CloudflareST.exe -tp 443 -url https://自己的测速地址 -sl 10 -tl 250 -dn 10 -f ip.txt
+反代IP每天更新：https://zip.baipiao.eu.org
+ip反查域名：https://ipchaxun.com/
+域名解析查询：https://www.itdog.cn/ping
+free.hr免费域名注册地址：https://subreg.cz/
+Discord地址：https://discord.com/
+
+---
+# 3、直播源
 YanG-1989：<br>
 ### 订阅地址「懒人必备」 
 * [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
@@ -20,7 +29,7 @@ YanG-1989：<br>
 
  
 ---
-# 3、电报机器人
+# 4、电报机器人
 2.1 搜索类
 1.	极搜https://t.me/jisou 堪称电报目前最强搜索机器人，啥都有
 2.	超级搜索：以前用，现在用的不多，都用上面的
