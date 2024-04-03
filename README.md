@@ -6,11 +6,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
 
 ---
-# 2、常用工具
+# 2、常用工具和链接
 CFip测速参数：CloudflareST.exe -tp 443 -url https://自己的测速地址 -sl 10 -tl 250 -dn 10 -f ip.txt <br>
 反代IP每天更新：https://zip.baipiao.eu.org <br>
 ip反查域名：https://ipchaxun.com/ <br>
 域名解析查询：https://www.itdog.cn/ping <br>
+FOFA白帽汇   https://en.fofa.info/          <br>
+ <br> <br> <br>
 free.hr免费域名注册地址：https://subreg.cz/  <br>
 Discord地址：https://discord.com/  <br>
 
