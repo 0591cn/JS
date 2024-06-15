@@ -1,6 +1,6 @@
 # 1、软件收藏
 
-1.1洛雪音乐助手 音源  lx-music-source-v1.1.0.js <br>
+1.1洛雪音乐助手 音源  lx-music-1.2.0.js <br>
 https://raw.githubusercontent.com/0591cn/JS/main/sixyin1.2.0.js<br>
 1.2李跳跳规则脚本:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年2月新2964规则.txt  <br>
