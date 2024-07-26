@@ -90,6 +90,7 @@ Cloudflare其它ASN号：AS394536  AS14789 AS139242 AS133877	AS132892 AS395747 A
 
 server=="cloudflare" && port=="80" && header="Forbidden" && country=="SG" && asn=="31898"
 比如添加上asn="31898",可以筛选新加坡甲骨文反代CF的服务器。
+
 4.本地优选和测速工具
 Github：https://github.com/XIU2/CloudflareSpeedTest/ 这个工具自带Cloudflare官方IP库，大约有5955个CF的ip,只要一运行就会自动扫出前10个优选IP。但它没有反代IP库哈，另外它还是一个好用的测速工具。
 
