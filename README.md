@@ -39,6 +39,8 @@ YanG-1989：<br>
 ---
  <br>
 # 4、CF优选IP和反代IP的方法总结
+HTTP支持端口：80，8080，8880，2052，2082，2086，2095；
+HTTPS支持端口：443，2053，2083，2087，2096，8443。
 
 Cloudflare的workers和pages搭建的免费vpn节点简单好用，但要保证速度我们必须优化CF的IP和反代CF的IP。现把内容总结如下：
 
@@ -54,13 +56,62 @@ https://github.com/ymyuuu/IPDB（这个可不但有CF的IP，还有反代CF的IP
 
 2.寻找反向代理了CF的IP方法：
 从白嫖哥获得：https://zip.baipiao.eu.org
-
 电报群组获得： https://t.me/cf_push
-
 从某项目获得：https://github.com/ymyuuu/IPDB
+cf.090227.xyz#三网自适应分流官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选
 
-以上两种方法是从其它大佬直接获取得到，方法简单、直接，非常适合小白朋友。
-
+常用的优选官方域名
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+www.visa.com.sg
+www.visa.com.hk
+www.visa.com.tw
+www.visa.co.jp
+www.visakorea.com
+www.gco.gov.qa
+www.gov.se
+www.gov.ua
+第三方维护的优选官方域名（未备注出处的为未知）
+cfip.xxxxxxxx.tk#OTC提供维护官方优选
+bestcf.onecf.eu.org#Mingyu提供维护官方优选
+cf.zhetengsha.eu.org#小一提供维护官方优选
+acjp2.cloudflarest.link#KJKKK维护官方优选
+achk.cloudflarest.link#KJKKK维护官方优选
+xn--b6gac.eu.org
+yx.887141.xyz
+8.889288.xyz
+cfip.1323123.xyz
+cf.515188.xyz
+cf-st.annoy.eu.org
+cf.0sm.com
+cf.877771.xyz
+cf.345673.xyz
+第三方维护的优选反代域名
+bestproxy.onecf.eu.org#Mingyu提供维护反代优选
+proxy.xxxxxxxx.tk#OTC提供维护反代优选
+第三方维护的优选官方IP的API
+https://ipdb.api.030101.xyz/?type=bestcf&country=true
+https://addressesapi.090227.xyz/CloudFlareYes
+https://addressesapi.090227.xyz/ip.164746.xyz
+第三方维护的优选反代IP的API
+https://ipdb.api.030101.xyz/?type=bestproxy&country=true
+更多优选内容可自行查看
+https://cf.090227.xyz
+https://ipdb.api.030101.xyz
+https://monitor.gacjie.cn/page/cloudflare/cname.html
+https://ip.164746.xyz
+https://stock.hostmonit.com/CloudFlareYes
+ <br>
 3.fofa寻找个性化的CF的IP或反代IP：
 这是一种非常好用的方法，利用它能够寻找自己想要的任何IP，方便准确。对小白也不算难。完全可以根据自己的要求，设置筛选条件，比如服务器、端口、国家、地区、城市、IP段等。
 
@@ -90,7 +141,7 @@ Cloudflare其它ASN号：AS394536  AS14789 AS139242 AS133877	AS132892 AS395747 A
 
 server=="cloudflare" && port=="80" && header="Forbidden" && country=="SG" && asn=="31898"
 比如添加上asn="31898",可以筛选新加坡甲骨文反代CF的服务器。
-
+ <br>
 4.本地优选和测速工具
 Github：https://github.com/XIU2/CloudflareSpeedTest/ 这个工具自带Cloudflare官方IP库，大约有5955个CF的ip,只要一运行就会自动扫出前10个优选IP。但它没有反代IP库哈，另外它还是一个好用的测速工具。
 
@@ -105,7 +156,7 @@ IP归属地查询：https://ipdata.co/
 
 
  <br>
- 5、MTProxyTLS一键安装绿色脚本
+9、MTProxyTLS一键安装绿色脚本
 执行如下代码进行安装
 
 ```bash
