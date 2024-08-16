@@ -54,15 +54,15 @@ http://ip.flares.cloud/
 
 https://github.com/ymyuuu/IPDB（这个可不但有CF的IP，还有反代CF的IP）
  <br>
-2.寻找反向代理了CF的IP方法：
-从白嫖哥获得：https://zip.baipiao.eu.org
-电报群组获得： https://t.me/cf_push
+2.寻找反向代理了CF的IP方法： <br>
+从白嫖哥获得：https://zip.baipiao.eu.org <br>
+电报群组获得： https://t.me/cf_push <br>
 从某项目获得：https://github.com/ymyuuu/IPDB <br>
 cf.090227.xyz#三网自适应分流官方优选 <br>
 ct.090227.xyz#电信官方优选 <br>
 cmcc.090227.xyz#移动官方优选 <br>
 
-常用的优选官方域名
+常用的优选官方域名 <br>
 shopify.com
 time.is
 icook.hk
@@ -81,7 +81,7 @@ www.visakorea.com
 www.gco.gov.qa
 www.gov.se
 www.gov.ua <br>
-第三方维护的优选官方域名（未备注出处的为未知）
+第三方维护的优选官方域名（未备注出处的为未知） <br>
 cfip.xxxxxxxx.tk#OTC提供维护官方优选
 bestcf.onecf.eu.org#Mingyu提供维护官方优选
 cf.zhetengsha.eu.org#小一提供维护官方优选
@@ -96,16 +96,16 @@ cf-st.annoy.eu.org
 cf.0sm.com
 cf.877771.xyz
 cf.345673.xyz <br>
-第三方维护的优选反代域名
+第三方维护的优选反代域名 <br>
 bestproxy.onecf.eu.org#Mingyu提供维护反代优选
 proxy.xxxxxxxx.tk#OTC提供维护反代优选 <br>
-第三方维护的优选官方IP的API
+第三方维护的优选官方IP的API <br>
 https://ipdb.api.030101.xyz/?type=bestcf&country=true
 https://addressesapi.090227.xyz/CloudFlareYes
 https://addressesapi.090227.xyz/ip.164746.xyz <br>
-第三方维护的优选反代IP的API
+第三方维护的优选反代IP的API <br>
 https://ipdb.api.030101.xyz/?type=bestproxy&country=true <br>
-更多优选内容可自行查看
+更多优选内容可自行查看 <br>
 https://cf.090227.xyz
 https://ipdb.api.030101.xyz
 https://monitor.gacjie.cn/page/cloudflare/cname.html
@@ -142,9 +142,9 @@ Cloudflare其它ASN号：AS394536  AS14789 AS139242 AS133877	AS132892 AS395747 A
 server=="cloudflare" && port=="80" && header="Forbidden" && country=="SG" && asn=="31898"
 比如添加上asn="31898",可以筛选新加坡甲骨文反代CF的服务器。
  <br>
-4.本地优选和测速工具
+4.本地优选和测速工具 <br>
 Github：https://github.com/XIU2/CloudflareSpeedTest/ 这个工具自带Cloudflare官方IP库，大约有5955个CF的ip,只要一运行就会自动扫出前10个优选IP。但它没有反代IP库哈，另外它还是一个好用的测速工具。
-
+ <br>
 其它可能用到的工具
 IP批量查询：https://reallyfreegeoip.org/bulk
 IP归属地查询：https://ipdata.co/
