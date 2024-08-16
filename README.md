@@ -39,9 +39,9 @@ YanG-1989：<br>
 ---
  <br>
 # 4、CF优选IP和反代IP的方法总结
-HTTP支持端口：80，8080，8880，2052，2082，2086，2095；
+HTTP支持端口：80，8080，8880，2052，2082，2086，2095； <br>
 HTTPS支持端口：443，2053，2083，2087，2096，8443。
-
+ <br>
 Cloudflare的workers和pages搭建的免费vpn节点简单好用，但要保证速度我们必须优化CF的IP和反代CF的IP。现把内容总结如下：
 
 1.寻找优选IP的方法：
@@ -53,14 +53,14 @@ https://monitor.gacjie.cn/page/cloudflare/ipv4.html
 http://ip.flares.cloud/
 
 https://github.com/ymyuuu/IPDB（这个可不但有CF的IP，还有反代CF的IP）
-
+ <br>
 2.寻找反向代理了CF的IP方法：
 从白嫖哥获得：https://zip.baipiao.eu.org
 电报群组获得： https://t.me/cf_push
-从某项目获得：https://github.com/ymyuuu/IPDB
-cf.090227.xyz#三网自适应分流官方优选
-ct.090227.xyz#电信官方优选
-cmcc.090227.xyz#移动官方优选
+从某项目获得：https://github.com/ymyuuu/IPDB <br>
+cf.090227.xyz#三网自适应分流官方优选 <br>
+ct.090227.xyz#电信官方优选 <br>
+cmcc.090227.xyz#移动官方优选 <br>
 
 常用的优选官方域名
 shopify.com
@@ -80,7 +80,7 @@ www.visa.co.jp
 www.visakorea.com
 www.gco.gov.qa
 www.gov.se
-www.gov.ua
+www.gov.ua <br>
 第三方维护的优选官方域名（未备注出处的为未知）
 cfip.xxxxxxxx.tk#OTC提供维护官方优选
 bestcf.onecf.eu.org#Mingyu提供维护官方优选
@@ -95,16 +95,16 @@ cf.515188.xyz
 cf-st.annoy.eu.org
 cf.0sm.com
 cf.877771.xyz
-cf.345673.xyz
+cf.345673.xyz <br>
 第三方维护的优选反代域名
 bestproxy.onecf.eu.org#Mingyu提供维护反代优选
-proxy.xxxxxxxx.tk#OTC提供维护反代优选
+proxy.xxxxxxxx.tk#OTC提供维护反代优选 <br>
 第三方维护的优选官方IP的API
 https://ipdb.api.030101.xyz/?type=bestcf&country=true
 https://addressesapi.090227.xyz/CloudFlareYes
-https://addressesapi.090227.xyz/ip.164746.xyz
+https://addressesapi.090227.xyz/ip.164746.xyz <br>
 第三方维护的优选反代IP的API
-https://ipdb.api.030101.xyz/?type=bestproxy&country=true
+https://ipdb.api.030101.xyz/?type=bestproxy&country=true <br>
 更多优选内容可自行查看
 https://cf.090227.xyz
 https://ipdb.api.030101.xyz
