@@ -5,9 +5,14 @@
 <br>
 [六音音源_1.2.1](https://raw.githubusercontent.com/0591cn/JS/main/sixyin-music-source-v1.2.1-encrypt.js)
 <br>
+[野花音源_1.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E9%87%8E%E8%8A%B1%E9%9F%B3%E6%BA%90_1.0.js)
+<br>
+[野草音源_1.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E9%87%8E%E8%8D%89%E9%9F%B3%E6%BA%90_1.0.js)
+<br>
+[晴天音源_1.1.2](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E6%99%B4%E5%A4%A9%E9%9F%B3%E6%BA%90_1.1.2.js)
+<br>
 
-https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E5%85%AD%E9%9F%B3%E9%9F%B3%E6%BA%90_1.2.0.js
-
+<br><br><br>
 1.2李跳跳规则脚本:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年2月新2964规则.txt  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
