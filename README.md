@@ -33,13 +33,13 @@ free.hr免费域名注册地址：https://subreg.cz/  <br>
 Discord地址：https://discord.com/  <br>
 
 ---
-# 3、看书阅读
+# 3、看书阅读（Legado）
 <br>
-### 书源【按时间倒序】 
-* [2025.2.基于 PyFQWeb 项目开发的 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)  
+### 书源【按时间倒序】<br>
+* [2025.2.基于 PyFQWeb 项目开发的 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)
 * [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
 
-### 直播集合「一切随缘」   
+### 「目录规则」   
 * [live.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/live.m3u)  
 >多平台集合「未创建」
 * [XX.m3u](https://tv.iill.top/xx)  
