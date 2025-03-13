@@ -33,10 +33,10 @@ free.hr免费域名注册地址：https://subreg.cz/  <br>
 Discord地址：https://discord.com/  <br>
 
 ---
-# 3、直播源
-YanG-1989：<br>
-### 订阅地址「懒人必备」 
-* [Gather.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)  
+# 3、看书阅读
+<br>
+### 书源【按时间倒序】 
+* [2025.2.基于 PyFQWeb 项目开发的 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)  
 * [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
 
 ### 直播集合「一切随缘」   
