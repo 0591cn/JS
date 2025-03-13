@@ -33,9 +33,8 @@ free.hr免费域名注册地址：https://subreg.cz/  <br>
 Discord地址：https://discord.com/  <br>
 
 ---
-# 3、看书阅读（Legado）
- 『😁开源阅读』！
-=========================
+# 3、 『😁开源阅读』！
+-------------------------------
 『软件手册 (https://yuque.com/legado)
 -------------------------------
 『软件下载 (https://t.me/Legado_Channels/414)
@@ -43,7 +42,7 @@ Discord地址：https://discord.com/  <br>
 『喵公子发布页 (https://fb.miaogongzi.cc/)
 含订阅源、各类书源、阅读下载、Beta下载等
 -------------------------------
-🎲相关：
+🎲相关：<br>
 • 书源渠道 (https://t.me/Legado_Channels/1305?single)<br>
 • 个人书源站：其一 (https://legado.aoaostar.com/)、其二 (https://shuyuan.yiove.com/)<br>
 • 多端阅读应用汇总 (https://t.me/Legado_Channels/1326)<br>
