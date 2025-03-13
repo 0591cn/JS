@@ -36,29 +36,31 @@ Discord地址：https://discord.com/  <br>
 # 3、看书阅读（Legado）
  『😁开源阅读』！
 =========================
-①:『软件手册 (https://yuque.com/legado)』有问题先看再问
+『软件手册 (https://yuque.com/legado)
 -------------------------------
-②:『软件下载 (https://t.me/Legado_Channels/414)』#阅读3_0 #阅读2_0 Beta版 (https://t.me/Legado_Beta)
+『软件下载 (https://t.me/Legado_Channels/414)
 -------------------------------
-③:『喵公子发布页 (https://fb.miaogongzi.cc/)』含订阅源、各类书源、阅读下载、Beta下载等
+『喵公子发布页 (https://fb.miaogongzi.cc/)
+含订阅源、各类书源、阅读下载、Beta下载等
 -------------------------------
 🎲相关：
- ∟ • 书源渠道 (https://t.me/Legado_Channels/1305?single)
- ∟ • 个人书源站：其一 (https://legado.aoaostar.com/)、其二 (https://shuyuan.yiove.com/)
- ∟ • 多端阅读应用汇总 (https://t.me/Legado_Channels/1326)
- ∟ • 书籍网站汇总 (https://1drv.ms/x/s!As8fswYEkqTehEosdhk7hotRWfS7?e=AdIkkV)
-
-### 「书源」
+• 书源渠道 (https://t.me/Legado_Channels/1305?single)<br>
+• 个人书源站：其一 (https://legado.aoaostar.com/)、其二 (https://shuyuan.yiove.com/)<br>
+• 多端阅读应用汇总 (https://t.me/Legado_Channels/1326)<br>
+• 书籍网站汇总 (https://1drv.ms/x/s!As8fswYEkqTehEosdhk7hotRWfS7?e=AdIkkV)
+-------------------------------
+-------------------------------
+### ①:「书源」
 >复制后打开阅读→下方第四个图标→书源管理→右上角三点→网络导入处粘贴→自己筛选后确认
 * [2025.2 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)
 * [SY241217书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/SY241217.json)
  
-### 「订阅」   
+### ②:「订阅」   
 >复制后打开阅读→下方第三个图标→右上角三点→网络导入处粘贴→自己筛选后确认
 * [DY241217](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/DY241217.json)  
 
 
-### 「朗读TTS」   
+### ③:「朗读TTS」   
 >复制→看书界面单点屏幕中心→朗读→设置→朗读引擎→小窗右上角三点→网络导入处粘贴→确认
 * [LD241217](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/LD241217.json)  
 
@@ -89,10 +91,11 @@ Discord地址：https://discord.com/  <br>
 5. 表达式微调及其他一些匹配优化
 
 
- 
+ -------------------------------
+ -------------------------------
 ---
  
- <br> <br>
+ <br> 
  
 ---
 ---
