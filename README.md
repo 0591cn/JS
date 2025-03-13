@@ -35,15 +35,21 @@ Discord地址：https://discord.com/  <br>
 ---
 # 3、看书阅读（Legado）
 <br>
-### 书源【按时间倒序】<br>
-* [2025.2.基于 PyFQWeb 项目开发的 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)
-* [Adult.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
+### 书源【按时间倒序】
 
-### 「目录规则」   
-* [live.m3u](https://raw.githubusercontent.com/YanG-1989/m3u/main/live.m3u)  
+* [2025.2.基于 PyFQWeb 项目开发的 Legado 兼容书源](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/20250213%E4%B9%A6%E6%BA%90.json)
+
+ >复制后打开阅读→下方第四个图标→书源管理→右上角三点→网络导入处粘贴→自己筛选后确认
+
+### 「订阅」   
+* [2025.01.23更新](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/%E5%85%A8%E5%B1%80%E5%AE%8C%E6%95%B4TXT%E7%9B%AE%E5%BD%95%E8%A7%84%E5%88%9920250123.json)  
 >多平台集合「未创建」
-* [XX.m3u](https://tv.iill.top/xx)  
->直接使用此地址,过滤 XX.m3u 中的无效直播.
+
+
+### 「全局完整目录规则」   
+* [2025.01.23更新](https://raw.githubusercontent.com/0591cn/JS/refs/heads/main/book/%E5%85%A8%E5%B1%80%E5%AE%8C%E6%95%B4TXT%E7%9B%AE%E5%BD%95%E8%A7%84%E5%88%9920250123.json)  
+>多平台集合「未创建」
+* 
 
  
 ---
