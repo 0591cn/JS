@@ -1,6 +1,4 @@
-# 1、软件收藏
-
-1.1洛雪音乐助手 音源  <br>
+# 1、洛雪音乐助手 音源  <br>
 [六音音源_1.2.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin-music-source-v1.2.0-encrypt.js)
 <br>
 [六音音源_1.2.1](https://raw.githubusercontent.com/0591cn/JS/main/sixyin-music-source-v1.2.1-encrypt.js)
@@ -13,12 +11,12 @@
 <br>
 
 <br><br>
-1.2李跳跳规则脚本:<br>
+# 2、李跳跳规则脚本:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年2月新2964规则.txt  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;李跳跳2024年新879规则.txt<br>
 
 ---
-# 2、常用工具和链接
+# 3、常用工具和链接
 CFip测速参数：CloudflareST.exe -tp 443 -url https://自己的测速地址 -sl 10 -tl 250 -dn 10 -f ip.txt <br>
 反代IP每天更新：https://zip.baipiao.eu.org <br>
 ip反查域名：https://ipchaxun.com/ <br>
@@ -33,7 +31,7 @@ free.hr免费域名注册地址：https://subreg.cz/  <br>
 Discord地址：https://discord.com/  <br>
 
 ---
-# 3、 『😁开源阅读』！
+# 4、 『😁开源阅读』！
 -------------------------------
 『软件手册 (https://yuque.com/legado)
 -------------------------------
@@ -93,7 +91,7 @@ Discord地址：https://discord.com/  <br>
  -------------------------------
  -------------------------------
 ---
-# 4、IPTV直播源汇总重置版
+# 5、IPTV直播源汇总重置版
 ① 电视直播搜索引擎 <br> 
 https://www.iptv-search.com <br> 
 ⒈ http://tonkiang.us <br> 
