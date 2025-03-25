@@ -17,7 +17,11 @@
   <br>
   [梓澄公益音源二代](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/梓橙公益音源2代.js)
    <br>
+     [無名v0.0.3](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/無名v0.0.3.js)
+        <br>
+     [肥猫不肥](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/肥猫不肥.js)
     <br>
+    
      <br>
      
 
