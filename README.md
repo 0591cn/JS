@@ -1,7 +1,7 @@
 # 1、洛雪音乐助手 音源  <br>
-[六音音源_1.2.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin-music-source-v1.2.0-encrypt.js)
+[六音音源_1.2.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/sixyin-music-source-v1.2.0-encrypt.js)
 <br>
-[六音音源_1.2.1](https://raw.githubusercontent.com/0591cn/JS/main/sixyin-music-source-v1.2.1-encrypt.js)
+[六音音源_1.2.1](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/sixyin-music-source-v1.2.1-encrypt.js)
 <br>
 [野花音源_1.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E9%87%8E%E8%8A%B1%E9%9F%B3%E6%BA%90_1.0.js)
 <br>
