@@ -142,7 +142,14 @@ https://www.iptvindex.com <br>
 ---
  
  <br> 
- 
+ # 6、自行搜索更多公益节点池
+ [Github](https://github.com/search?q=v2ray+free&type=repositories&s=stars&o=desc)
+ <br> 
+
+ [FOFA](https://fofa.info/result?qbase64=Ym9keT0i6Ieq5Yqo5oqT5Y+WdGfpopHpgZPjgIHorqLpmIXlnLDlnYDjgIHlhazlvIDkupLogZTnvZHkuIrnmoRzc+OAgXNzcuOAgXZtZXNz44CBdHJvamFu6IqC54K55L+h5oGvIg==)
+
+
+ <br>  <br>  <br>  <br> 
 ---
 ---
 ---
