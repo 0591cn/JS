@@ -150,7 +150,49 @@ https://www.iptvindex.com <br>
  [FOFA](https://fofa.info/result?qbase64=Ym9keT0i6Ieq5Yqo5oqT5Y+WdGfpopHpgZPjgIHorqLpmIXlnLDlnYDjgIHlhazlvIDkupLogZTnvZHkuIrnmoRzc+OAgXNzcuOAgXZtZXNz44CBdHJvamFu6IqC54K55L+h5oGvIg==)
 
 
- <br>  <br>  <br>  <br> 
+ <br> 
+ # 7、优选官方域名
+ 
+cf.090227.xyz#三网自适应分流官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选
+ <br> 
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+www.visa.com.sg
+www.visa.com.hk
+www.visa.com.tw
+www.visa.co.jp
+www.visakorea.com
+www.gco.gov.qa
+www.gov.se
+www.gov.ua
+ <br> 
+第三方维护的优选官方域名（未备注出处的为未知）
+cfip.xxxxxxxx.tk#OTC提供维护官方优选
+bestcf.onecf.eu.org#Mingyu提供维护官方优选
+cf.zhetengsha.eu.org#小一提供维护官方优选
+acjp2.cloudflarest.link#KJKKK维护官方优选
+achk.cloudflarest.link#KJKKK维护官方优选
+xn--b6gac.eu.org
+yx.887141.xyz
+8.889288.xyz
+cfip.1323123.xyz
+cf.515188.xyz
+cf-st.annoy.eu.org
+cf.0sm.com
+cf.877771.xyz
+cf.345673.xyz
+
+ <br>  <br>  <br> 
 ---
 ---
 ---
