@@ -153,44 +153,44 @@ https://www.iptvindex.com <br>
  <br> 
  # 7、优选官方域名
  
-cf.090227.xyz#三网自适应分流官方优选
-ct.090227.xyz#电信官方优选
-cmcc.090227.xyz#移动官方优选
+cf.090227.xyz#三网自适应分流官方优选 <br> 
+ct.090227.xyz#电信官方优选 <br> 
+cmcc.090227.xyz#移动官方优选 <br> 
  <br> 
-shopify.com
-time.is
-icook.hk
-icook.tw
-ip.sb
-japan.com
-malaysia.com
-russia.com
-singapore.com
-skk.moe
-www.visa.com.sg
-www.visa.com.hk
-www.visa.com.tw
-www.visa.co.jp
-www.visakorea.com
-www.gco.gov.qa
-www.gov.se
-www.gov.ua
- <br> 
-第三方维护的优选官方域名（未备注出处的为未知）
-cfip.xxxxxxxx.tk#OTC提供维护官方优选
-bestcf.onecf.eu.org#Mingyu提供维护官方优选
-cf.zhetengsha.eu.org#小一提供维护官方优选
-acjp2.cloudflarest.link#KJKKK维护官方优选
-achk.cloudflarest.link#KJKKK维护官方优选
-xn--b6gac.eu.org
-yx.887141.xyz
-8.889288.xyz
-cfip.1323123.xyz
-cf.515188.xyz
-cf-st.annoy.eu.org
-cf.0sm.com
-cf.877771.xyz
-cf.345673.xyz
+shopify.com <br> 
+time.is <br> 
+icook.hk <br> 
+icook.tw <br> 
+ip.sb <br> 
+japan.com <br> 
+malaysia.com <br> 
+russia.com <br> 
+singapore.com <br> 
+skk.moe <br> 
+www.visa.com.sg <br> 
+www.visa.com.hk <br> 
+www.visa.com.tw <br> 
+www.visa.co.jp <br> 
+www.visakorea.com <br> 
+www.gco.gov.qa <br> 
+www.gov.se <br> 
+www.gov.ua <br> 
+ <br>  <br>  <br>  <br> 
+第三方维护的优选官方域名（未备注出处的为未知） <br> 
+cfip.xxxxxxxx.tk#OTC提供维护官方优选 <br> 
+bestcf.onecf.eu.org#Mingyu提供维护官方优选 <br> 
+cf.zhetengsha.eu.org#小一提供维护官方优选 <br> 
+acjp2.cloudflarest.link#KJKKK维护官方优选 <br> 
+achk.cloudflarest.link#KJKKK维护官方优选 <br> 
+xn--b6gac.eu.org <br> 
+yx.887141.xyz <br> 
+8.889288.xyz <br> 
+cfip.1323123.xyz <br> 
+cf.515188.xyz <br> 
+cf-st.annoy.eu.org <br> 
+cf.0sm.com <br> 
+cf.877771.xyz <br> 
+cf.345673.xyz <br> 
 
  <br>  <br>  <br> 
 ---
