@@ -153,30 +153,30 @@ https://www.iptvindex.com <br>
  <br> 
  # 7、优选官方域名
  
-+ cf.090227.xyz#三网自适应分流官方优选 <br> 
-+ ct.090227.xyz#电信官方优选 <br> 
-+ cmcc.090227.xyz#移动官方优选 <br> 
- <br> 
-shopify.com <br> 
-time.is <br> 
-icook.hk <br> 
-icook.tw <br> 
-ip.sb <br> 
-japan.com <br> 
-malaysia.com <br> 
-russia.com <br> 
-singapore.com <br> 
-skk.moe <br> 
-www.visa.com.sg <br> 
-www.visa.com.hk <br> 
-www.visa.com.tw <br> 
-www.visa.co.jp <br> 
-www.visakorea.com <br> 
-www.gco.gov.qa <br> 
-www.gov.se <br> 
-www.gov.ua <br> 
- <br>  <br>  <br>  <br> 
-第三方维护的优选官方域名（未备注出处的为未知） <br> 
++ cf.090227.xyz#三网自适应分流官方优选 
++ ct.090227.xyz#电信官方优选
++ cmcc.090227.xyz#移动官方优选 
+- 第三方
++ shopify.com 
++ time.is 
++ icook.hk 
++ icook.tw 
++ ip.sb 
++ japan.com 
++ malaysia.com 
++ russia.com 
++ singapore.com 
++ skk.moe 
++ www.visa.com.sg  
++ www.visa.com.hk  
++ www.visa.com.tw 
++ www.visa.co.jp 
++ www.visakorea.com
++ www.gco.gov.qa 
++ www.gov.se
++ www.gov.ua 
+ <br>  
+- 第三方维护的优选官方域名（未备注出处的为未知） 
 cfip.xxxxxxxx.tk#OTC提供维护官方优选 <br> 
 bestcf.onecf.eu.org#Mingyu提供维护官方优选 <br> 
 cf.zhetengsha.eu.org#小一提供维护官方优选 <br> 
