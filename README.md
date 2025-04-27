@@ -153,9 +153,9 @@ https://www.iptvindex.com <br>
  <br> 
  # 7、优选官方域名
  
-cf.090227.xyz#三网自适应分流官方优选 <br> 
-ct.090227.xyz#电信官方优选 <br> 
-cmcc.090227.xyz#移动官方优选 <br> 
++ cf.090227.xyz#三网自适应分流官方优选 <br> 
++ ct.090227.xyz#电信官方优选 <br> 
++ cmcc.090227.xyz#移动官方优选 <br> 
  <br> 
 shopify.com <br> 
 time.is <br> 
