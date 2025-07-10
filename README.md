@@ -138,9 +138,10 @@ https://www.iptvindex.com <br>
 ⒏https://github.com/biancangming/wtv <br> 
 ⒐https://github.com/zwc456baby/iptv_alive <br> 
 一些github上，IPTV源项目或收集分享IPTV源的项目，IPTV.org 这个 网站 (https://iptv-org.github.io/) 进行检索，更多 IPTV 资源，可查看 GitHub 的 IPTV Topic (https://github.com/topics/iptv)。  <br>
-
+ <br> 
 ---
- 
+⑤ 公益订阅在线M3U订阅链接： <br> 
+https://www.freetv.top/mgevent.m3u
  <br> 
  # 6、自行搜索更多公益节点池
  
