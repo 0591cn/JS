@@ -1,8 +1,11 @@
 # 1、音乐播放器 <br>
+### ①: MusicFree---一个插件化的音乐播放器  <br>
+软件下载方式、插件使用说明、插件开发文档可去站点 https://musicfree.catcat.work 查看。<br>
 
-
+[手机端](https://github.com/maotoumao/MusicFree)<br>
+[PC端](https://github.com/maotoumao/MusicFreeDesktop)<br>
  <br>
-# 2）、洛雪音乐助手 音源  <br>
+### ②:洛雪音乐助手 音源  <br>
 [六音音源_1.2.0](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/sixyin-music-source-v1.2.0-encrypt.js)
 <br>
 [六音音源_1.2.1](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/sixyin-music-source-v1.2.1-encrypt.js)
