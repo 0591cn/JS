@@ -18,7 +18,7 @@
 <br>
 [音源ikun-v103](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E9%9F%B3%E6%BA%90ikun-source.js)
  <br>
-[小熊猫v1.1.2](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/Free listen v1.1.2.js)
+[小熊猫v1.1.2](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/Free%20listen%20v1.1.2.js)
  <br>
 [晴天音源v1.1.2](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/%E6%99%B4%E5%A4%A9%E9%9F%B3%E6%BA%90_1.1.2.js)
   <br>
