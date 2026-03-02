@@ -1,7 +1,8 @@
 # 1、音乐播放器 <br>
 ### ①: MusicFree---一个插件化的音乐播放器  <br>
 软件下载方式、插件使用说明、插件开发文档可去站点 https://musicfree.catcat.work 查看。<br>
-
+MusicFree音源链接：<br>
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json<br>
 [手机端](https://github.com/maotoumao/MusicFree)<br>
 [PC端](https://github.com/maotoumao/MusicFreeDesktop)<br>
  <br>
@@ -28,6 +29,8 @@
    <br>
 [肥猫不肥](https://raw.githubusercontent.com/0591cn/JS/main/sixyin/肥猫不肥.js)
  <br>
+  [Huibq_lxmusic源](https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js)<br>
+   <br>
     
      
 
